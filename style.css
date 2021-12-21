@@ -1,0 +1,31 @@
+/* || General Setup */
+
+html, body {
+  background-color:#2c2a33 ;
+}
+
+html {
+    font-family: "Lora", serif; 
+}
+
+body{
+    width: "device-width";
+    margin: 0 auto;
+}
+
+.content {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1 {
+    color:antiquewhite;
+    text-align: center;
+}
+p {
+  color: antiquewhite;
+  text-align: center;
+}
